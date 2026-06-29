@@ -68,3 +68,5 @@ s1.push(8);
 s1.display();
 s1.peek();
 }
+
+//Stack from Linkedlist
